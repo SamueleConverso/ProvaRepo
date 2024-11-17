@@ -1,13 +1,7 @@
-* {
-    padding: 0;
-}
-
 body {
     height: 100%;
 }
 
-h1 {
-    color: red;
+* {
+    padding: 0;
 }
-
-/**/
